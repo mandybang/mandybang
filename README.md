@@ -11,7 +11,7 @@
   
    💻 -	Adoro um aprendizado constante, por esse motivo criei meu perfil no GitHub para que eu possa realizar testes de projetos e linguagens. 
    
-    🚀 - Estou atualmente interessada em aprender sobre Git, React, Python e SQL, porém as vezes me aventuro por outras linguagens.	
+   🚀 - Estou atualmente interessada em aprender sobre Git, React, Python e SQL, porém as vezes me aventuro por outras linguagens.	
 </details>
 
 <details align="left">
