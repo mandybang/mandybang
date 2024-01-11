@@ -10,6 +10,7 @@
     👩🏼‍🎓 - Cursei tecnologia da informação entre os anos de 2018-2020 na FUNEC e atualmente estou realizando o curso de Analise e Desenvolvimento de Sistemas na UNA. 
   
    💻 -	Adoro um aprendizado constante, por esse motivo criei meu perfil no GitHub para que eu possa realizar testes de projetos e linguagens. 
+   
     🚀 - Estou atualmente interessada em aprender sobre Git, React, Python e SQL, porém as vezes me aventuro por outras linguagens.	
 </details>
 
