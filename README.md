@@ -1,5 +1,5 @@
 <h1> 
-<img align="center" alt="gif gengar 1" width="80px" src="https://media.tenor.com/w33hdDzoSE0AAAAi/haunter.gif"></a>
+<img align="center" alt="gif gengar 1" width="80px" src="https://media.tenor.com/w33hdDzoSE0AAAAi/haunter.gif">
 <center> Hi, I'm Amanda Fonseca or Mandy </center>
 </h1>
 
