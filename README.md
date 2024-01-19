@@ -67,3 +67,9 @@
   </details>
 
 <img align="center" alt="umbreon and espeon" width="40px" src="https://media.tenor.com/xNMqySDiwd4AAAAi/pokemon-espeon.gif">
+
+
+<!--
+Tradução feita com auxilio do Google Tradutor, podendo possuir alguns erros.
+Portifólio ainda em construção
+>
