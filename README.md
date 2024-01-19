@@ -34,7 +34,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=951ABE&color:FFF)](https://www.instagram.com/mandybang_/) </div>
   </details>
 
-<img align="center" alt="umbreon" width="40px" src="https://media.tenor.com/Yg2RAGpzHK0AAAAi/pokemon-umbreon.gif">
+<img align="center" alt="umbreon" width="60px" src="https://media.tenor.com/Yg2RAGpzHK0AAAAi/pokemon-umbreon.gif">
 
 <details align="left">
   <summary><b>{FR}</b></summary> 
