@@ -17,7 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=951ABE&color:FFF)](https://www.linkedin.com/in/amandafonseca50/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=951ABE&color:FFF)](https://www.instagram.com/mandybang_/) </div>
   </details>
-
+  
+  <details align="left">
   <summary><b>{ENG}</b></summary> 
     <div> 💚 - I am Brazilian, born in Minas Gerais. </div>
     <div> 😄 - Pronouns: She/Her</div>
@@ -59,7 +60,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=951ABE&color:FFF)](https://www.instagram.com/mandybang_/) </div>
   </details>
 
-<img align="center" alt="umbreon and espeon" width="40px" src="https://media.tenor.com/xNMqySDiwd4AAAAi/pokemon-espeon.gif"><img align="center" alt="gardevoir" width="40px" src="https://media.tenor.com/_SSLwxdYbSIAAAAi/gardevoir-standing.gif">
+<img align="center" alt="umbreon and espeon" width="40px" src="https://media.tenor.com/xNMqySDiwd4AAAAi/pokemon-espeon.gif"><img align="center" alt="gardevoir" width="65px" src="https://media.tenor.com/_SSLwxdYbSIAAAAi/gardevoir-standing.gif">
 
 
 <!--
