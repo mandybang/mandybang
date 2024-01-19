@@ -2,7 +2,7 @@
   <img align="center" alt="gif gengar 1" width="80px" src="https://media.tenor.com/w33hdDzoSE0AAAAi/haunter.gif">
   <center> Hi, I'm Amanda Fonseca or Mandy </center>
 </h1>
-<b>Below is a slight description of who I am, choose the language to read ✨</b>
+<h2><b>Below is a slight description of who I am, choose the language to read ✨</b></h2>
  
   <details align="left"> 
   <summary><b>{PT-BR}</b></summary> 
