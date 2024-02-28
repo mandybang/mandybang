@@ -62,6 +62,11 @@
 
 <img align="center" alt="umbreon and espeon" width="40px" src="https://media.tenor.com/xNMqySDiwd4AAAAi/pokemon-espeon.gif"><img align="center" alt="gardevoir" width="65px" src="https://media.tenor.com/_SSLwxdYbSIAAAAi/gardevoir-standing.gif">
 
+<div>
+   <a href="https://github.com/mandybang">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandybang&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
 
 <!--
 Tradução feita com auxilio do Google Tradutor, podendo possuir alguns erros.
